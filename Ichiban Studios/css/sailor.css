@@ -1,0 +1,18 @@
+
+body {
+    background-image: url(../media/image/wallpapers/898689.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    font-family: "Balsamiq Sans", cursive;
+   
+  }
+
+  .sailor {
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
